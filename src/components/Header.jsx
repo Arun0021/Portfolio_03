@@ -31,22 +31,25 @@ const NavContent = ({ setMenuOpen }) => (
         Home
       </a>
       <a onClick={() => setMenuOpen(false)} href="#work">
-        Work
+        Projects
       </a>
-      <a onClick={() => setMenuOpen(false)} href="#timeline">
+      {/* <a onClick={() => setMenuOpen(false)} href="#timeline">
         Experience
-      </a>
-      <a onClick={() => setMenuOpen(false)} href="#services">
+      </a> */}
+      {/* <a onClick={() => setMenuOpen(false)} href="#services">
         Services
-      </a>
-      <a onClick={() => setMenuOpen(false)} href="#testimonial">
+      </a> */}
+      {/* <a onClick={() => setMenuOpen(false)} href="#testimonial">
         Testimonial
-      </a>
+      </a> */}
       <a onClick={() => setMenuOpen(false)} href="#contact">
         Contact
       </a>
+      <a href="https://leetcode.com/u/1onlyArunz/" target="blank">LeetCode</a>
+      <a href="https://github.com/Arun0021" target="blank">Github</a>
+      <a href="https://www.linkedin.com/in/arun-meel-77a325212/" target="blank">LinkedIn</a>
     </div>
-    <a href="mailto:official.6packprogrammer@gmail.com">
+    <a href="mailto:arunofficial400@gmail.com">
       <button>Email</button>
     </a>
   </>

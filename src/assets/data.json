@@ -1,39 +1,40 @@
 {
   "projects": [
     {
-      "date": "07/10/2022",
-      "title": "TECHY STAR",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://reactone-nine.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      "date": "Oct 2024 - Dec 2024",
+      "title": "GymShark",
+      "description": "This is an Ecommerce platform",
+      "url": "https://github.com/Arun0021/Gymshark",
+      "imgSrc": "https://seeklogo.com/images/G/gymshark-logo-3F1E7A14A4-seeklogo.com.png"
     },
 
     {
-      "date": "11/10/2022",
-      "title": "VIDEO HUB",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-video-app-eight.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      "date": "Aug 2024 - Sep 2024",
+      "title": "Twitter",
+      "description": "This is a Social Media platform",
+      "url": "https://github.com/Arun0021/X-twitter",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/2496/2496110.png"
     },
     {
-      "date": "15/10/2022",
-      "title": "XCrypto",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-crypto-app-pi.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      "date": "May 2024 - July 2024",
+      "title": "Medical NGO Website",
+      "description": "Developed a medical website for an NGO",
+      "url": "https://github.com/healthumbrella",
+      "imgSrc": "https://i.pinimg.com/736x/2f/c0/3d/2fc03d670ee3a7d31a49e1e5dbc92b98.jpg"
+    },
+    {
+      "date": "Jan 2024 - May 2024",
+      "title": "WeChat",
+      "description": "This is a real time chat-app",
+      "url": "https://github.com/Arun0021/We-chat",
+      "imgSrc": "https://img.freepik.com/premium-photo/wechat-application-logo-3d-rendering-white-background_41204-10979.jpg"
     },
 
+    
     {
-      "date": "17/10/2022",
-      "title": "REACT CART",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-cart-eosin.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
-    },
-    {
-      "date": "20/10/2022",
-      "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "date": "Oct 2023 - Dec 2023",
+      "title": "Portfolio",
+      "description": "This is my portfolio website",
       "url": "/",
       "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
     }

@@ -53,7 +53,7 @@ const Home = ({ ratio }) => {
 
           <Typewriter
             options={{
-              strings: ["Data-Structures and Algorithms", "Competitive Programming", "Web-Development"],
+              strings: ["MERN-Stack Development","Data-Structures and Algorithms", "Competitive Programming"],
               autoStart: true,
               loop: true,
               cursor: "",
@@ -62,12 +62,16 @@ const Home = ({ ratio }) => {
           />
 
           <div>
-            <a href="mailto:arunofficial400@gmail.com">Hire Me</a>
+            {/* <a href="mailto:arunofficial400@gmail.com">Hire Me</a> */}
+            <a href="https://www.linkedin.com/in/arun-meel-77a325212/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
           </div>
+            <aside>
 
+            
           <article>
             <p>
               
@@ -82,7 +86,7 @@ const Home = ({ ratio }) => {
             <span>Problems Solved</span>
           </article>
 
-          <aside>
+          {/* <aside> */}
             <article>
               <p>
                 
@@ -98,12 +102,12 @@ const Home = ({ ratio }) => {
               </p>
               <span>Projects Done</span>
             </article>
-
-            <article data-special>
+            </aside>
+            <article>
               <p>Contact</p>
               <span>arunofficial400@gmail.com</span>
             </article>
-          </aside>
+          {/* </aside> */}
         </div>
       </section>
       <section>

@@ -6,17 +6,18 @@ const Testimonial = () => {
         <h2>Testimonial</h2>
         <section>
             <TestimonialCard 
-            name={"Alisha"}
-            feedback={"He is amazing."}
+            name={"Bot"}
+            feedback={"Hello World"}
             />
             <TestimonialCard 
-            name={"Pearl"}
-            feedback={"He is amazing."}
+            name={"Bot"}
+            feedback={"Hello World"}
             />
             <TestimonialCard 
-            name={"Radhika"}
-            feedback={"He is a good guy."}
+            name={"Bot"}
+            feedback={"Hello World"}
             />
+            
 
         </section>
       

@@ -35,6 +35,7 @@ const Services = () => {
           initial={animations.one}
         >
           <h3>3+</h3>
+          <h3></h3>
           <p>Years of College Experience</p>
         </motion.div>
         <motion.div
